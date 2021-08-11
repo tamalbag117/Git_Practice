@@ -1,3 +1,10 @@
+/*Power of a number using recursion
+callrecursion use as recursive function here 
+example like :2 toi the power 4=16;
+4 to the power 3 = 64 etc */
+
+
+
 import java.util.Scanner;
 class Practice{
     public int callrecursion(int x, int n) {
