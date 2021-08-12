@@ -1,3 +1,5 @@
+/*An Armstrong Number in a given number that is the sum of its own digits raise 
+to the power of the number of digits */
 import java.util.Scanner;
 import java.lang.Math;
 public class Tamal_01_ArmstrongNumber {
