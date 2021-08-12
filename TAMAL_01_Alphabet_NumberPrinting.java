@@ -2,8 +2,10 @@ import java.util.Scanner;
 public class TAMAL_01_Alphabet_NumberPrinting {
     public static void main(String[] args) {
          Scanner cc=new Scanner(System.in);
-         System.out.print("given number of column:");
+        //user input
+         System.out.print("given number of rows:");
          int num=cc.nextInt();
+        //First Pattern
          for(int i=1;i<=num;i++)
          {
              for(int j=1;j<=i;j++)
@@ -12,6 +14,7 @@ public class TAMAL_01_Alphabet_NumberPrinting {
              }
              System.out.print("\n");
          }
+        //Second Pattern
          System.out.println("second pattern:\n");
          for(int i=1;i<=num;i++)
          {
@@ -21,6 +24,7 @@ public class TAMAL_01_Alphabet_NumberPrinting {
              }
              System.out.print("\n");
          }
+        //Third Pattern
          System.out.println("third pattern:\n");
          int c=1;
          for(int i=1;i<=num;i++)
@@ -32,7 +36,8 @@ public class TAMAL_01_Alphabet_NumberPrinting {
              }
              System.out.print("\n");
          }
-         System.out.println("third pattern:\n");
+        //fourth pattern
+         System.out.println("fourth pattern:\n");
         int d=1;
         for(int i=1;i<=num;i++)
         {
@@ -47,6 +52,7 @@ public class TAMAL_01_Alphabet_NumberPrinting {
             }
             System.out.print("\n");
         }
+        //Fifth pattern #Number pattern -1
         System.out.print("Number  pattern part 4:\n");
         int e=1;
         for(int i=1;i<=num;i++)
@@ -67,6 +73,7 @@ public class TAMAL_01_Alphabet_NumberPrinting {
             }
             System.out.print("\n");
         }
+        //Sixth Pattern # Alphabet Pattern
         System.out.print("alphabet pattern:");
         for(int i=1;i<=num;i++)
         {
@@ -76,6 +83,7 @@ public class TAMAL_01_Alphabet_NumberPrinting {
             }
             System.out.print("\n");
         }
+        //Sevent Pattern #Alphabet pattern
         System.out.print("Alphabet pattern:\n");
         for(int i=1;i<=num;i++)
         {
@@ -85,6 +93,7 @@ public class TAMAL_01_Alphabet_NumberPrinting {
             }
             System.out.print("\n");
         }
+        //Eight Pattern #Alphabet pattern 
         System.out.print("Alphabet Pattern,\n part2:\n");
         for(int i=num;i>=1;i--)
         {
@@ -94,6 +103,7 @@ public class TAMAL_01_Alphabet_NumberPrinting {
             }
             System.out.print("\n");
         }
+        //Ninth pattern # Alphabet pattern
         System.out.print("alphabet pattern\n part 3:\n");
         for(int i=1;i<=num;i++)
         {
