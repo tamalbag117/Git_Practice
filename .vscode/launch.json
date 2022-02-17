@@ -1,0 +1,399 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch p1",
+            "request": "launch",
+            "mainClass": "com.Patterns.p1",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shift",
+            "request": "launch",
+            "mainClass": "com.Math1.Shift",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumConverter",
+            "request": "launch",
+            "mainClass": "com.example.demo.NumConverter",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumConverter",
+            "request": "launch",
+            "mainClass": "com.Math1.NumConverter",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bit_0p1",
+            "request": "launch",
+            "mainClass": "com.Math.Bit_0p1",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch ODDDDDd",
+            "request": "launch",
+            "mainClass": "com.example.demo.ODDDDDd",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch NextvsNextLine",
+            "request": "launch",
+            "mainClass": "com.String.NextvsNextLine",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch FibonacyNum",
+            "request": "launch",
+            "mainClass": "com.Recursion.FibonacyNum",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintingNumbers",
+            "request": "launch",
+            "mainClass": "com.Recursion.PrintingNumbers",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern9",
+            "request": "launch",
+            "mainClass": "com.Patterns.Pattern9",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern8",
+            "request": "launch",
+            "mainClass": "com.Patterns.Pattern8",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch CyclickSort",
+            "request": "launch",
+            "mainClass": "com.sort.CyclickSort",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern7",
+            "request": "launch",
+            "mainClass": "com.Patterns.Pattern7",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern6",
+            "request": "launch",
+            "mainClass": "com.Patterns.Pattern6",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern5",
+            "request": "launch",
+            "mainClass": "com.Patterns.Pattern5",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern4",
+            "request": "launch",
+            "mainClass": "com.Patterns.Pattern4",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern3",
+            "request": "launch",
+            "mainClass": "com.Patterns.Pattern3",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern2",
+            "request": "launch",
+            "mainClass": "com.Patterns.Pattern2",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "com.Patterns.Pattern1",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch SinglyLinkedList",
+            "request": "launch",
+            "mainClass": "com.Node.SinglyLinkedList",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Odd_Topic",
+            "request": "launch",
+            "mainClass": "com.number.Odd_Topic",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch_Recursive",
+            "request": "launch",
+            "mainClass": "com.Searching.BinarySearch_Recursive",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxSecondMaxWithOutSort",
+            "request": "launch",
+            "mainClass": "com.Searching.MaxSecondMaxWithOutSort",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Map_1",
+            "request": "launch",
+            "mainClass": "com.list.Map_1",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackClass",
+            "request": "launch",
+            "mainClass": "com.list.StackClass",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch UnderFlowError",
+            "request": "launch",
+            "mainClass": "com.list.UnderFlowError",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestDoulbt",
+            "request": "launch",
+            "mainClass": "com.example.TestDoulbt",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch MargeTwoSortedList",
+            "request": "launch",
+            "mainClass": "com.sort.MargeTwoSortedList",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch TernaryOperator",
+            "request": "launch",
+            "mainClass": "com.number.TernaryOperator",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "com.sort.QuickSort",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "com.sort.SelectionSort",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bubble_Sort_Algo",
+            "request": "launch",
+            "mainClass": "com.sort.Bubble_Sort_Algo",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowOfProgram",
+            "request": "launch",
+            "mainClass": "FlowOfProgram",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array_Concatination",
+            "request": "launch",
+            "mainClass": "com.BasicArray.Array_Concatination",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array_IncrementbyOne",
+            "request": "launch",
+            "mainClass": "com.BasicArray.Array_IncrementbyOne",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch RichestCustomarWealth",
+            "request": "launch",
+            "mainClass": "com.BasicArray.RichestCustomarWealth",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "com.BasicArray.test",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array_LinearSearch",
+            "request": "launch",
+            "mainClass": "com.Searching.Array_LinearSearch",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_Search_1DArray",
+            "request": "launch",
+            "mainClass": "com.Searching.Binary_Search_1DArray",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountingNegativeNumber_SortedMatrix",
+            "request": "launch",
+            "mainClass": "com.Searching.CountingNegativeNumber_SortedMatrix",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch DP_Algo",
+            "request": "launch",
+            "mainClass": "com.Searching.DP_Algo",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearSearch_2DArray",
+            "request": "launch",
+            "mainClass": "com.Searching.LinearSearch_2DArray",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Modified_BinarySearch",
+            "request": "launch",
+            "mainClass": "com.Searching.Modified_BinarySearch",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Negative_Number_Sorted2D_Matrix",
+            "request": "launch",
+            "mainClass": "com.Searching.Negative_Number_Sorted2D_Matrix",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Odd_EvenChecking",
+            "request": "launch",
+            "mainClass": "com.Searching.Odd_EvenChecking",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Odd_Evendigit_Count",
+            "request": "launch",
+            "mainClass": "com.Searching.Odd_Evendigit_Count",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseSortedArray_BinarySearch",
+            "request": "launch",
+            "mainClass": "com.Searching.ReverseSortedArray_BinarySearch",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strictly_IncreasingArray",
+            "request": "launch",
+            "mainClass": "com.Searching.Strictly_IncreasingArray",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch linear_Search_1",
+            "request": "launch",
+            "mainClass": "com.Searching.linear_Search_1",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch AyyaRotation_1",
+            "request": "launch",
+            "mainClass": "com.example.AyyaRotation_1",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java_Array_Element_sum",
+            "request": "launch",
+            "mainClass": "com.example.Java_Array_Element_sum",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoApplication",
+            "request": "launch",
+            "mainClass": "com.example.demo.DemoApplication",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java_Array_Part1",
+            "request": "launch",
+            "mainClass": "com.example.demo.Java_Array_Part1",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_Array_Rotation",
+            "request": "launch",
+            "mainClass": "com.example.demo.java_Array_Rotation",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumber",
+            "request": "launch",
+            "mainClass": "com.number.PrimeNumber",
+            "projectName": "demo"
+        }
+    ]
+}
